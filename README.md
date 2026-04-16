@@ -1,5 +1,3 @@
-# Python-Quiz-App
-
 # Python Quiz App
 
 Dette er et enkelt Python-program som lar brukeren svare på spørsmål i en quiz.
